@@ -6,6 +6,7 @@
 git clone https://github.com/YouTwitFace/ChannelHashBot.git
 cd ChannelHashBot
 cp .env.example .env
+npm install
 npm start
 ```
 
