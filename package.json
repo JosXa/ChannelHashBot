@@ -1,5 +1,6 @@
 {
   "name": "channelhashbot",
+  "repository": "https://github.com/AndrewLaneX/ChannelHashBot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
